@@ -1,1 +1,1 @@
-# yuavn.github.io
+# yua.github.io
