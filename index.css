@@ -582,13 +582,13 @@ iframe {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://cdn.discordapp.com/attachments/1066390084183658566/1077831143551942707/2023-01-25_12.44.44.png");
+    url("https://cdn.discordapp.com/attachments/1087337303808155657/1127077140601511986/image.png");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://cdn.discordapp.com/attachments/1066390084183658566/1077831143551942707/2023-01-25_12.44.44.png") center center fixed;
+    url("https://cdn.discordapp.com/attachments/1087337303808155657/1127077140601511986/image.png") center center fixed;
   --height: 50vh;
 }
 
@@ -619,7 +619,7 @@ iframe {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://cdn.discordapp.com/attachments/1066390084183658566/1077831143551942707/2023-01-25_12.44.44.png") !important;
+      url("https://cdn.discordapp.com/attachments/1087337303808155657/1127077140601511986/image.png") !important;
   }
 }
 
